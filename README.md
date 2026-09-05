@@ -1,7 +1,7 @@
 # UPSHIFT · The Automated Financial Sector
 
 Web deck for the NICTSeD 2026 Semifinals (National ICT Security Discourse · CyberSAFE® Challenge Trophy 2026).
-Team A · SMK St Bernadette's Convent, Perak · AEB2064.
+Team B · SMK St Bernadette's Convent, Perak · AEB2064.
 
 **Live deck:** https://brotaufik.github.io/upshift-deck/
 
