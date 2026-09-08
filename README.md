@@ -1,7 +1,7 @@
 # UPSHIFT · The Automated Financial Sector
 
 Web deck for the NICTSeD 2026 Semifinals (National ICT Security Discourse · CyberSAFE® Challenge Trophy 2026).
-Team B · SMK St Bernadette's Convent, Perak · AEB2064.
+SMK St Bernadette's Convent · Perak Darul Ridzuan · AEB2064.
 
 **Live deck:** https://brotaufik.github.io/upshift-deck/
 
@@ -17,6 +17,6 @@ Team B · SMK St Bernadette's Convent, Perak · AEB2064.
 ## About this repository
 This repository holds the built site only (Vite production output). The editable source project
 (`src/`, `public/`, `CONTENT_AUDIT.md`, `PRESENTATION_GUIDE.md`, the FAQ text and the Apps Script that builds the form)
-is kept by the team as `UPSHIFT_Web_Deck.zip`. Rebuild with `npm ci && npm run build`, then replace the files here.
+is kept by the team in the NICTSeD context archive. Rebuild with `npm ci && npm run build`, then replace the files here.
 
 Every statement in the deck is sourced from the team's own semifinal presentation; sources are listed in the **S** drawer.
